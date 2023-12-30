@@ -46,11 +46,11 @@
 
 }
 .food{
-    background: url("D:/Html/snake fun/images/app.png");
+    background: url("./images/app.png");
     background-size: 100% 100%;
 }
 .head{
-    background: url("D:/Html/snake fun/images/headsnake.png");
+    background: url("./images/headsnake.png");
     background-size: 100% 100%;
     display: flex;
     align-items: center;
