@@ -1,10 +1,10 @@
 var lastPaintTime=0;
 let snake_Speed=4;
 let inputDirection={x:0,y:0};
-const gameOver=new Audio("D:/Html/snake fun/Music/gameover.mp3");
-const music=new Audio("D:/Html/snake fun/Music/music.mp3");
-const foodpower=new Audio("D:/Html/snake fun/Music/food.mp3");
-const move=new Audio("D:/Html/snake fun/Music/move.mp3");
+const gameOver=new Audio("./Music/gameover.mp3");
+const music=new Audio("./Music/music.mp3");
+const foodpower=new Audio("./Music/food.mp3");
+const move=new Audio("./Music/move.mp3");
 let lastInputDirection=inputDirection;
 const expantion_amount=1;
 var score=0;
